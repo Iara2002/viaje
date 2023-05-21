@@ -43,8 +43,7 @@
 <section class="booking">
     <h1 class="heading-title">reserva tu viaje</h1>
 
-    <form action="book_form.php" methot="post" class="book-form">
-
+    <form action="book_form.php" method="post" class="book-form">
     <div class="flex">
         <div class="inputBox">
             <span> nombre :</span>
@@ -60,11 +59,11 @@
         </div>
         <div class="inputBox">
             <span>dirección :</span>
-            <input type="text" placeholder="ingrese su dirección" name="address">
+            <input type="text" placeholder="ingrese su dirección" name="addres">
         </div>
         <div class="inputBox">
             <span>a donde :</span>
-            <input type="email" placeholder="ingrese su lugar de viaje" name="location">
+            <input type="text" placeholder="ingrese su lugar de viaje" name="location">
         </div>
         <div class="inputBox">
             <span>cuantas :</span>
