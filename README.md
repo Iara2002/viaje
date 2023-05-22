@@ -7,11 +7,11 @@ Este es un proyecto de una página web de viajes responsive, desarrollada utiliz
 3. Detalles de cada destino, incluyendo imágenes, descripción y actividades recomendadas.
 4. Formulario de consulta de viaje, donde los usuarios pueden ingresar sus datos y enviar consultas.
 5. Base de datos MySQL para almacenar y administrar los datos de los destinos y las consultas de los usuarios.
-Capturas de Pantalla
-Captura de Pantalla 1
-Captura de Pantalla 2
-Captura de Pantalla 3
-Captura de Pantalla 4
+
+![Inicio](./img/viaje1.png)
+![AcercaDe](./img/viaje2.png)
+![Paquetes](./img/viaje3.png)
+
 
 Requisitos Previos
 Antes de ejecutar el proyecto, asegúrate de tener lo siguiente configurado:
